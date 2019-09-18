@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Oceanwp child theme 
+ Theme URI:    http://example.com/oceanwp-child/
+ Description:  Oceanwp Child Theme
+ Author:       Nellie Hoestrup 
+ Author URI:   http://nelliehoestrup.dk 
+ Template:     oceanwp
+ Version:      1.7.1
+ License:      GNU General Public License v2 or later
+ License URI:  https://oceanwp.org/demos/
+ Tags:         To kolonner, Højre sidebar, Sidefod-widgets, Blog, Nyheder, Tilpasset baggrund, custom-menu, Indlægsformater, rtl-language-support, Fastgjort indlæg, Editor-stylesheet,       threaded-comments, translation-ready, buddypress, Egne farver, Udvalgte billeder, Fuld bredde, Temafunktioner, E-Commerce
+ Text Domain:  oceanwpchild
+*/
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+
+.sticky {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
+  padding-top: 3% !important;
+}
+
+
+
