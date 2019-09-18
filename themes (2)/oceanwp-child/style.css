@@ -21,5 +21,8 @@
   padding-top: 3% !important;
 }
 
-
+/* hover */ 
+.elementor-widget-heading .elementor-heading-title>a:hover {
+    color: pink;
+}
 
